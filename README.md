@@ -1,12 +1,12 @@
 # d3-test
 
-installation
+installation;
+
+npm install d3 
+npm install static-server
+
 ___
 
-npm install
-
-
 Run
-____
 
 npm start
