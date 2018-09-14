@@ -3,6 +3,7 @@
 installation;
 
 npm install d3 
+
 npm install static-server
 
 ___
