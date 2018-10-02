@@ -10,4 +10,4 @@ ___
 
 Run
 
-npm start
+npm start.
